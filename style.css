@@ -1,0 +1,28 @@
+body {
+    font-family:Georgia, serif;
+    background-color: #111111;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+h1{
+    font-size: 50px;
+    letter-spacing: 3px;
+}
+
+a{
+    display: inline-block;
+    padding: 12px 20px;
+    margin: 10px;
+    text-decoraion: none;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
